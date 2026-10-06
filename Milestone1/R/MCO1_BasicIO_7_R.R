@@ -1,10 +1,8 @@
-/*
-********************
-Last names: Borbe, Caibigan, Sering, Won
-Language: Kotlin
-Paradigm(s): Procedural
-********************
-*/
+# ********************
+# Last names: Borbe, Caibigan, Sering, Won
+# Language: R
+# Paradigm(s): Procedural
+# ********************
 
 print("Selection Transaction:")
 print("[1] Register Account Name")
