@@ -1,10 +1,10 @@
 /*
 ********************
-Last names: SERING
+Last names: Borbe, Caibigan, Sering, Won
 Language: C
-Paradigm(s): Procedural, Imperative
+Paradigm(s): Procedural
 ********************
-*/
+ */
 
 /*
  * MCO1_BasicIO_C.c
