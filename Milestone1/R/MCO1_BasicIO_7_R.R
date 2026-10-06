@@ -1,3 +1,11 @@
+/*
+********************
+Last names: Borbe, Caibigan, Sering, Won
+Language: Kotlin
+Paradigm(s): Procedural
+********************
+*/
+
 print("Selection Transaction:")
 print("[1] Register Account Name")
 print("[2] Deposit Amount")
