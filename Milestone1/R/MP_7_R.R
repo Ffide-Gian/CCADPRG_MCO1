@@ -1,10 +1,7 @@
-/*
-********************
-Last names: Borbe, Caibigan, Sering, Won
-Language: Kotlin
-Paradigm(s): Procedural
-********************
- */
+# Last names: Borbe, Caibigan, Sering, Won
+# Language: Kotlin
+# Paradigm(s): Procedural
+
 
 main_menu <- TRUE
 curBal <- 1000
